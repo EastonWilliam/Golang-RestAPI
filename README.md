@@ -2,7 +2,7 @@
 # REST API to Execute Shell Commands
 
 - It is a golang REST API application to execute shell command from payload
-- It is not recommended - Just for learning purpose
+
 
 
 
